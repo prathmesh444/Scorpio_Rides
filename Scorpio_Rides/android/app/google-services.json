@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787565255536",
+    "firebase_url": "https://scorpio-9bfe9-default-rtdb.firebaseio.com",
+    "project_id": "scorpio-9bfe9",
+    "storage_bucket": "scorpio-9bfe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787565255536:android:fc0d9c8dfd4334e4104db5",
+        "android_client_info": {
+          "package_name": "com.example.scorpio_rides"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787565255536-a7793us2fd9q7fb6g64mjsifftdk02uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5tO1LBdxGznHQRmghVQdZF8YY-ijjpX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787565255536-a7793us2fd9q7fb6g64mjsifftdk02uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
