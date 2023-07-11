@@ -1,8 +1,9 @@
 # Scorpio_Rides
 
-* This is a FreeLance Project I've developed for a Australia based startup "Scropio Rides".
-* This is enterprise Application build with flutter, which allows the admin to schedule automatically
-    sends payment reminder emails to their customer on weekly, monthly and yearly basis.
+* Spearheaded the end-to-end development of the entire project in 15 days for a Australia based startup "Scropio Rides".
+* Learnt to maintain client-company coordination, product development, product designing, cost optimization & debugging skills.
+• This application automates major companies task such as automatic sending of payment reminders email in bulk which are future scheduled using Firebase, 
+  Firestore connections, google cloud, etc.
 * It uses FireFlutter and FireBase intergration to run CRON JOBS by customising SMTP server.
 * The UI is kept simple, except some animated splash screens used to increase the app experience.
 
